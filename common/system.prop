@@ -1,0 +1,4 @@
+ro.surface_flinger.supports_background_blur=0
+
+# prevent bootloop
+ro.control_privapp_permissions=log
