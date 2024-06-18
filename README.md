@@ -2,7 +2,7 @@
 > **Note** : There is no official lawnchair launcher module going to there support chats with the module will get you banned/kicked from there chat 
 
 
-This repo contains the required update json's and files for the Systemless Lawnchair Launcher Module for the non root apk of this module go the the [Lawnchair Modded repo](https://github.com/Unofficial-Life/Lawnchair-Modded)
+This repo contains the required update json's and files for the Systemless Lawnchair Launcher Module for the non root apk of this module go to the [Lawnchair Modded repo](https://github.com/Unofficial-Life/Lawnchair-Modded)
 
 Module script by [MrSluffy](https://github.com/MrSluffy)
 
