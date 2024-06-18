@@ -16,7 +16,7 @@ Module script by [MrSluffy](https://github.com/MrSluffy)
 
 <ol>
 
-<li> &nbsp; Download the repo as zip 
+<li> &nbsp; Download the repo as <a href="https://github.com/Unofficial-Life/Lawnchair-Launcher-Module/archive/refs/heads/main.zip"> zip </a>
 
 <li> &nbsp; Remove the update.json line from module.prop to not get updates from this repo 
 
