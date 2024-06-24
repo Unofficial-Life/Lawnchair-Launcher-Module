@@ -1,9 +1,9 @@
-name: Release Lawnchair module
+name: Release Lawnchair module A12 Accent
 
 on:
   push:
     branches:
-      - main 
+      - old-A12-Accent-pallet
 
 jobs:
   release:
