@@ -1,0 +1,26 @@
+name: Release Lawnchair module
+
+on:
+  push:
+    branches:
+      - main 
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      
+    - name: Remove .github and .git folders
+      run: |
+        find . -type d -name .github -exec rm -rf {} +
+        rm -rf .git
+    
+    - name: Upload files
+      uses: actions/upload-artifact@v4
+      with:
+        name: Lawnchairmodule
+        path: ./
+        if-no-files-found: error
