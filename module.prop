@@ -1,7 +1,7 @@
 id=lawnchair
 name=Systemless Lawnchair Launcher
-version=v3.0
-versionCode=3
+version=v4.0
+versionCode=4
 author=MrSluffy & Unofficial Life
 description=Systemless Lawnchair Launcher Module (R-Q) with special icons made by Amr Gamal
 updateJson=https://raw.githubusercontent.com/Unofficial-Life/Lawnchair-Launcher-Module/main/update.json
