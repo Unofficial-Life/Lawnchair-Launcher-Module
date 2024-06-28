@@ -40,6 +40,9 @@
         <permission name="android.permission.ROTATE_SURFACE_FLINGER"/>
         <permission name="android.permission.WAKEUP_SURFACE_FLINGER"/>
         <permission name="android.permission.POST_NOTIFICATIONS"/>
+        <permission name="android.permission.INTERACT_ACROSS_USERS"/>
+        <permission name="android.permission.MANAGE_USERS"/>
+        <permission name="android.permission.FORCE_STOP_PACKAGES"/>
         <permission name="app.lawnchair.permission.READ_SETTINGS"/>
         <permission name="app.lawnchair.permission.WRITE_SETTINGS"/>
         <permission name="app.lawnchair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"/>
