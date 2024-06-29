@@ -6,7 +6,7 @@ This repo contains the required update json's and files for the Systemless Lawnc
 
 Module script by [MrSluffy](https://github.com/MrSluffy)
 
-**Module supports android version `10 (Q)` to `14 QPR2 (U)`**
+**Module supports android version `10 (Q)` to `14 QPR3 (U)`**
 
 
 ## Installation
@@ -30,5 +30,10 @@ Module script by [MrSluffy](https://github.com/MrSluffy)
 ## Don't want lawnicons 
 remove lawnicons folder from ```System/priv-app``` from the zip
 
-$~$
+&nbsp;
 
+## Special Thanks to 💖
+
+| Lawnchair team | Amr Gamal ❥ | Kartrexofficial | Goooler | Mr Sluffy | Eren
+:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <br>[<img src="https://avatars.githubusercontent.com/u/34144436?s=200&v=4" width=115><br>](https://github.com/LawnchairLauncher)<sub>Lawnchair</sub> | <br>[<img src="https://avatar.fuplink.net/avatar/dircover/6326959?verc=0823110339" width=115><br>](t.me/AMRGAMAL_STORE)<sub>Special Icons</sub> | <br>[<img src="https://avatars.githubusercontent.com/u/172979966?v=4" width=115><br>](https://github.com/Kartrexofficial)<sub> &nbsp; </sub> | <br>[<img src="https://avatars.githubusercontent.com/u/10363352?v=4" width=115><br>](https://github.com/Goooler)<sub>Lawnchair fork</sub> | <br>[<img src="https://avatars.githubusercontent.com/u/36076410?v=4" width=115><br>](https://github.com/MrSluffy)<sub>Module Script</sub> | <br>[<img src="https://avatars.githubusercontent.com/u/101087324?v=4" width=115><br>](https://github.com/LinuxGuy312)<sub>Helper</sub>
