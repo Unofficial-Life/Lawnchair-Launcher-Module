@@ -6,7 +6,7 @@ This repo contains the required update json's and files for the Systemless Lawnc
 
 Module script by [MrSluffy](https://github.com/MrSluffy)
 
-**Module supports android version `10 (Q)` to `14 QPR3 (U)`**
+**Module supports android version `10 (Q)` to `14 QPR3 (U)` , Module also contains quickswitch therefore it will replace recents provider too without any extra steps**
 
 
 ## Installation
