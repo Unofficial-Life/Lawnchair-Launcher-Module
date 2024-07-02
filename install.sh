@@ -83,6 +83,7 @@ REPLACE="
 /system/system_ext/priv-app/Launcher3QuickStep
 /system/system_ext/priv-app/Launcher3QuickStepMock
 /system/system_ext/app/XLauncher
+/system/system_ext/priv-app/Launcher3QuickStep/Launcher3QuickStep.apk
 "
 
 ##########################################################################################
