@@ -18,13 +18,20 @@ Module script by [MrSluffy](https://github.com/MrSluffy)
 
 <li> &nbsp; Download the repo as <a href="https://github.com/Unofficial-Life/Lawnchair-Launcher-Module/archive/refs/heads/main.zip"> zip </a>
 
+<li> &nbsp; Extract the files 
+
 <li> &nbsp; Remove the update.json line from module.prop to not get updates from this repo 
+
+<li> &nbsp; Remove unwanted files within the zip (its not important but to make the module clean instead) - Reeadme.md, changelog.md, .github
 
 <li> &nbsp; Download latest lawnchair buid from <a href="https://github.com/Unofficial-Life/Lawnchair-Modded"> Lawnchair modded repo </a> or whichever version you like
 
 <li> &nbsp; Rename Lawnchair Apk as Dev.apk and place it inside System/priv-app/dev
 
+<li> &nbsp; now zip the folder containing all the files
+
 <li> &nbsp; Now flash and enjoy ❤
+
 </ol>
 
 ## Don't want lawnicons 
