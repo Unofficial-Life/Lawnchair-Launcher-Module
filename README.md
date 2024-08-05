@@ -22,7 +22,7 @@ Module script by [MrSluffy](https://github.com/MrSluffy)
 
 <li> &nbsp; Remove the update.json line from module.prop to not get updates from this repo 
 
-<li> &nbsp; Remove unwanted files within the zip (its not important but to make the module clean instead) - Reeadme.md, changelog.md, .github
+<li> &nbsp; Remove unwanted files within the zip (its not important but to make the module clean instead) - Readme.md, changelog.md, .github
 
 <li> &nbsp; Download latest lawnchair buid from <a href="https://github.com/Unofficial-Life/Lawnchair-Modded"> Lawnchair modded repo </a> or whichever version you like
 
