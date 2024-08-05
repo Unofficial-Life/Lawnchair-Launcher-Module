@@ -8,6 +8,8 @@ Module script by [MrSluffy](https://github.com/MrSluffy)
 
 **Module supports android version `10 (Q)` to `14 QPR3 (U)` , Module also contains quickswitch therefore it will replace recents provider too without any extra steps**
 
+**Note** : this module is updatable through magisk/Ksu itself, what that means is if i upload a new module update with new lawnchair version a update button will show within Magisk and Ksu.
+
 
 ## Installation
 > Download the Zip file from [Release](https://github.com/Unofficial-Life/Lawnchair-Launcher-Module/Releases/latest) and Flash in magisk/KSU
