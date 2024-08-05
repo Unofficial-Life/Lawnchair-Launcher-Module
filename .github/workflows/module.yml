@@ -1,7 +1,7 @@
 name: Release Lawnchair module
 
 on:
-  push:
+  workflow_dispatch:
     branches:
       - main 
 
