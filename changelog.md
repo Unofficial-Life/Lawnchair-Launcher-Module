@@ -1,11 +1,9 @@
 # Changelog 🎉
 
-- Monet improvement 
-- App search fixed (was a bug in dev builds after last build)
-- Iceraven and Yandex added to dock search bar (Firefox support in next release maybe opera too?) 
-- New web search in drawer search
-- New option to have same drawer search as dock search bar ( can have Google search bar there now)
+- Firefox added to dock search bar 
+- New outline feature around dock search bar 
+- App drawer search bug fixed
+- Horizontal padding setting not working fixed 
 
-## Bugs 
-
-- ( ~Horizontal padding not working as intended~ ) apparently works on tablet dpi onwards which is still not the same function as it was before 
+## Note
+- **Give all the permission need by lawnchair from system settings if it crashes while changing grid or icons**
