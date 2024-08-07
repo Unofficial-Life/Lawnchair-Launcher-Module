@@ -6,4 +6,4 @@
 - Horizontal padding setting not working fixed 
 
 ## Note
-- **Give all the permission need by lawnchair from system settings if it crashes while changing grid or icons**
+- **Give all the permission needed by lawnchair from system settings if it crashes while changing grid or icons**
