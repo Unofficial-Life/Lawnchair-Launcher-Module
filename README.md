@@ -10,6 +10,9 @@ Module script by [MrSluffy](https://github.com/MrSluffy)
 
 **Note** : this module is updatable through magisk/Ksu itself, what that means is if i upload a new module update with new lawnchair version a update button will show within Magisk and Ksu.
 
+# Must Read before flashing
+ - **Turn off** magisk enforce denylist
+ - KSU users keep in mind to **not** disable unmount module by default toggle 
 
 ## Installation
 > Download the Zip file from [Release](https://github.com/Unofficial-Life/Lawnchair-Launcher-Module/Releases/latest) and Flash in magisk/KSU
