@@ -12,7 +12,7 @@ Module script by [MrSluffy](https://github.com/MrSluffy)
 
 # Must Read before flashing
  - **Turn off** magisk enforce denylist
- - KSU users keep in mind to **not** disable unmount module by default toggle 
+ - KSU users keep in mind, do **not** disable unmount module by default toggle 
 
 ## Installation
 > Download the Zip file from [Release](https://github.com/Unofficial-Life/Lawnchair-Launcher-Module/Releases/latest) and Flash in magisk/KSU
