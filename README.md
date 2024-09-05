@@ -1,51 +1,68 @@
 # Systemless Lawnchair Launcher (Unofficial)
-> **Note** : There is no official lawnchair launcher module going to there support chats with the module will get you banned/kicked from there chat 
 
+[![GitHub release](https://img.shields.io/github/release/Unofficial-Life/Lawnchair-Launcher-Module.svg)](https://github.com/Unofficial-Life/Lawnchair-Launcher-Module/releases) &nbsp;
+![Repo visits](https://visitcount.itsvg.in/api?id=Lawnchair-Launcher-Module&label=Repo%20views%20&color=0&icon=5&pretty=false)
 
-This repo contains the required update json's and files for the Systemless Lawnchair Launcher Module for the non root apk of this module go to the [Lawnchair Modded repo](https://github.com/Unofficial-Life/Lawnchair-Modded)
+> **Note**: This is an unofficial module. Do **not** request support in official Lawnchair channels, as doing so could result in a ban or kick from their community.
 
-Module script by [MrSluffy](https://github.com/MrSluffy)
+---
 
-**Module supports android version `10 (Q)` to `14 QPR3 (U)` , Module also contains quickswitch therefore it will replace recents provider too without any extra steps**
+## 📑 Table of Contents
+1. [Module Features](#module-features)
+2. [Important: Before Flashing ⚠️](#prerequisites-before-flashing)
+3. [Installation](#installation)
+4. [Updating the Module Yourself](#updating-the-module-yourself)
+5. [Optional: Removing Lawnicons](#optional-removing-lawnicons)
+6. [Special Thanks](#special-thanks)
 
-**Note** : this module is updatable through magisk/Ksu itself, what that means is if i upload a new module update with new lawnchair version a update button will show within Magisk and Ksu.
+---
 
-# Must Read before flashing
- - **Turn off** magisk enforce denylist
- - KSU users keep in mind to disable unmount module by default toggle 
+## 🌟 Module Features
+- Systemless installation of Lawnchair Launcher via Magisk or KernelSU.
+- Supports Android versions 10 (Q) to 14 (QPR3).
+- **Quickswitch Integration**: Replaces Recents Provider without extra configuration.
+- Automatic updates via Magisk/KSU.
 
-## Installation
-> Download the Zip file from [Release](https://github.com/Unofficial-Life/Lawnchair-Launcher-Module/Releases/latest) and Flash in magisk/KSU
+---
 
-## Update module yourself
+## ⚠️ Important: Before Flashing
+- **Magisk Users:** Ensure "Enforce DenyList" is turned off.
+- **KSU Users:** Disable the "Unmount module by default" toggle.
 
-<ol>
+---
 
-<li> &nbsp; Download the repo as <a href="https://github.com/Unofficial-Life/Lawnchair-Launcher-Module/archive/refs/heads/main.zip"> zip </a>
+## 📦 Installation
 
-<li> &nbsp; Extract the files 
+1. Download the zip file from the [Latest Release](https://github.com/Unofficial-Life/Lawnchair-Launcher-Module/releases/latest).
+2. Flash the zip in Magisk or KernelSU.
+3. Reboot and enjoy the Lawnchair experience!
 
-<li> &nbsp; Remove the update.json line from module.prop to not get updates from this repo 
+---
 
-<li> &nbsp; Remove unwanted files within the zip (its not important but to make the module clean instead) - Readme.md, changelog.md, .github
+## 🔄 Updating the Module Yourself
 
-<li> &nbsp; Download latest lawnchair buid from <a href="https://github.com/Unofficial-Life/Lawnchair-Modded"> Lawnchair modded repo </a> or whichever version you like
+To manually update or customize the module:
 
-<li> &nbsp; Rename Lawnchair Apk as Dev.apk and place it inside System/priv-app/dev
+1. **Download the repository** as a [zip file](https://github.com/Unofficial-Life/Lawnchair-Launcher-Module/archive/refs/heads/main.zip).
+2. **Extract the files** from the zip.
+3. **Edit `module.prop`:**
+   - Remove the `update.json` line (to disable automatic updates from this repo).
+4. **Clean up unnecessary files** such as `README.md`, `CHANGELOG.md`, and `.github` folder (optional but recommended).
+5. **Download the latest Lawnchair APK** from the [Lawnchair Modded Repo](https://github.com/Unofficial-Life/Lawnchair-Modded) or another version of your choice.
+6. **Rename the APK** to `Dev.apk` and place it in `System/priv-app/dev`.
+7. **Zip the folder** containing all files.
+8. **Flash the new zip** through Magisk or KSU.
 
-<li> &nbsp; now zip the folder containing all the files
+---
 
-<li> &nbsp; Now flash and enjoy ❤
+## 🛠 Optional: Removing Lawnicons
 
-</ol>
+If you do not want Lawnicons, simply delete the `lawnicons` folder from `System/priv-app` within the module zip before flashing.
 
-## Don't want lawnicons 
-remove lawnicons folder from ```System/priv-app``` from the zip
+---
 
-&nbsp;
+## 💖 Special Thanks to
 
-## Special Thanks to 💖
-
-| Lawnchair team | Amr Gamal ❥ | Kartrexofficial | Goooler | Mr Sluffy | Eren
-:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <br>[<img src="https://avatars.githubusercontent.com/u/34144436?s=200&v=4" width=115><br>](https://github.com/LawnchairLauncher)<sub>Lawnchair</sub> | <br>[<img src="https://avatar.fuplink.net/avatar/dircover/6326959?verc=0823110339" width=115><br>](t.me/AMRGAMAL_STORE)<sub>Special Icons</sub> | <br>[<img src="https://avatars.githubusercontent.com/u/172979966?v=4" width=115><br>](https://github.com/Kartrexofficial)<sub> &nbsp; </sub> | <br>[<img src="https://avatars.githubusercontent.com/u/10363352?v=4" width=115><br>](https://github.com/Goooler)<sub>Lawnchair fork</sub> | <br>[<img src="https://avatars.githubusercontent.com/u/36076410?v=4" width=115><br>](https://github.com/MrSluffy)<sub>Module Script</sub> | <br>[<img src="https://avatars.githubusercontent.com/u/101087324?v=4" width=115><br>](https://github.com/LinuxGuy312)<sub>Helper</sub>
+| Lawnchair Team | Amr Gamal ❥ | Kartrexofficial | Goooler | Mr Sluffy | Eren |
+|:--------------:|:-----------:|:---------------:|:-------:|:---------:|:----:|
+| [<img src="https://avatars.githubusercontent.com/u/34144436?s=200&v=4" width=115>](https://github.com/LawnchairLauncher)<br><sub>Lawnchair</sub> | [<img src="https://avatar.fuplink.net/avatar/dircover/6326959?verc=0823110339" width=115>](https://t.me/AMRGAMAL_STORE)<br><sub>Special Icons</sub> | [<img src="https://avatars.githubusercontent.com/u/172979966?v=4" width=115>](https://github.com/Kartrexofficial)<br><sub>&nbsp;</sub> | [<img src="https://avatars.githubusercontent.com/u/10363352?v=4" width=115>](https://github.com/Goooler)<br><sub>Lawnchair Fork</sub> | [<img src="https://avatars.githubusercontent.com/u/36076410?v=4" width=115>](https://github.com/MrSluffy)<br><sub>Module Script</sub> | [<img src="https://avatars.githubusercontent.com/u/101087324?v=4" width=115>](https://github.com/LinuxGuy312)<br><sub>Helper</sub> |
