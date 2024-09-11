@@ -8,12 +8,12 @@
 ---
 
 ## 📑 Table of Contents
-1. [Module Features](#module-features)
-2. [Important: Before Flashing ⚠️](#prerequisites-before-flashing)
-3. [Installation](#installation)
-4. [Updating the Module Yourself](#updating-the-module-yourself)
-5. [Optional: Removing Lawnicons](#optional-removing-lawnicons)
-6. [Special Thanks](#special-thanks)
+1. [Module Features](#🌟-module-features)
+2. [Important: Before Flashing ⚠️](#⚠️-Important:-Before-Flashing)
+3. [Installation](#📦-installation)
+4. [Updating the Module Yourself](#🔄-updating-the-module-yourself)
+5. [Optional: Removing Lawnicons](#🛠-optional-removing-lawnicons)
+6. [Special Thanks](#💖-special-thanks-to)
 
 ---
 

@@ -1,11 +1,9 @@
 # Changelog 🎉
 
-- Lawnchair version 2069510 (beta 3 version)
-- Lawnicons updated to v2.11.0
-- Smartspacer padding fixed
+- New icon pack layout + monet compatibilities 
+- Smartspacer padding fixes
 - Quickswitch improvement 
-- Added option folder background opacity
-- Monet improvment 
+- Monet improvement 
 
 ## Note
 - **Give all the permission need by lawnchair from system settings if it crashes while changing grid or icons**
