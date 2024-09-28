@@ -9,7 +9,7 @@
 
 ## 📑 Table of Contents
 1. [Module Features](#-module-features)
-2. [Important: Before Flashing ⚠️](#-Important:-Before-Flashing)
+2. [Important: Before Flashing ⚠️](#%EF%B8%8F-important-before-flashing)
 3. [Installation](#-installation)
 4. [Updating the Module Yourself](#-updating-the-module-yourself)
 5. [Optional: Removing Lawnicons](#-optional-removing-lawnicons)
