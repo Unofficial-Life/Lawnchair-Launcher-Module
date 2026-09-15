@@ -51,40 +51,8 @@ REPLACE_EXAMPLE="
 
 # Construct your own list here
 REPLACE="
-/system/app/Launcher
-/system/priv-app/Lawnchair
-/system/priv-app/AsusLauncherDev
-/system/priv-app/NothingLauncher3
-/system/priv-app/NexusLauncherPrebuilt
-/system/product/priv-app/ParanoidQuickStep
-/system/product/priv-app/ShadyQuickStep
-/system/product/priv-app/TrebuchetQuickStep
-/system/product/priv-app/NexusLauncherRelease
-/system/product/priv-app/NusantaraLauncherQuickStep
-/system/product/overlay/PixelLauncherIconsOverlay
-/system/product/overlay/CustomPixelLauncherOverlay
-/system/product/overlay/ThemedIconsOverlay.apk
-/system/product/overlay/PixelLauncherIconsOverlay.apk
-/system/product/overlay/CustomPixelLauncherOverlay.apk
-/system/product/overlay/Launcher3QuickStep__auto_generated_rro_product.apk
-/system/product/overlay/DerpLauncherQuickStep__auto_generated_rro_product.apk
-/system/product/overlay/ParanoidLauncherTranslation.apk
-/system/product/overlay/ParanoidLauncherOverlay.apk
-/system/product/overlay/Launcher3Overlay.apk
-/system/product/overlay/DerpLauncherOverlay.apk
-/system/system_ext/priv-app/NusantaraLauncherQuickStep
-/system/system_ext/priv-app/MiLahainaExperience
-/system/system_ext/priv-app/NexusLauncherRelease
-/system/system_ext/priv-app/TrebuchetQuickStep
-/system/system_ext/priv-app/Lawnchair
-/system/system_ext/priv-app/ArrowLauncher
-/system/system_ext/priv-app/PixelLauncherRelease
-/system/system_ext/priv-app/ParanoidQuickStep
 /system/system_ext/priv-app/Launcher3QuickStep
-/system/system_ext/priv-app/Launcher3QuickStepMock
-/system/system_ext/app/XLauncher
 /system/system_ext/priv-app/Launcher3QuickStep/Launcher3QuickStep
-/system/system_ext/priv-app/NexusLauncherPrebuild
 "
 
 ##########################################################################################
